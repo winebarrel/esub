@@ -30,7 +30,7 @@ func main() {
 }
 ```
 
-### Escape Placeholders
+### Escape Placeholder
 
 ```go
 tmpl := "foo:$${foo} BAR:${BAR}"
