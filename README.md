@@ -1,5 +1,7 @@
 # esub
 
+[![CI](https://github.com/winebarrel/esub/actions/workflows/ci.yml/badge.svg)](https://github.com/winebarrel/esub/actions/workflows/ci.yml)
+
 A library to replace string placeholders with environment variables.
 
 ## Usage
