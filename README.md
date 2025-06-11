@@ -1,6 +1,8 @@
 # esub
 
 [![CI](https://github.com/winebarrel/esub/actions/workflows/ci.yml/badge.svg)](https://github.com/winebarrel/esub/actions/workflows/ci.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/winebarrel/esub.svg)](https://pkg.go.dev/github.com/winebarrel/esub)
+[![Go Report Card](https://goreportcard.com/badge/github.com/winebarrel/esub)](https://goreportcard.com/report/github.com/winebarrel/esub)
 
 A library to replace string placeholders with environment variables.
 
